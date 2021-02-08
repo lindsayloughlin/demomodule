@@ -8,3 +8,7 @@ func GetCommonData() string {
 func GetData() string {
 	return "Data"
 }
+
+func NewData() string {
+	return "New data"
+}
